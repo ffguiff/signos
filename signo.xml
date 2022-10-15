@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+
+<signos>
+    <titulo>Signos</titulo>
+
+    <signo>
+
+        <dataInicio>05-21</dataInicio>
+
+        <dataFim>06-20</dataFim>
+
+        <signoNome>Gêmeos</signoNome>
+
+        <descricao>Geminianos: animados e comunicativos. Inconstantes, ansiosos e evasivos. Elemento: Ar.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>06-21</dataInicio>
+
+        <dataFim>07-21</dataFim>
+
+        <signoNome>Câncer</signoNome>
+
+        <descricao>Cancerianos: dedicados e gentis. Carentes e ciumentos. Elemento: Água.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>07-22</dataInicio>
+
+        <dataFim>08-22</dataFim>
+
+        <signoNome>Leão</signoNome>
+
+        <descricao>Leoninos: Inteligentes e corajosos. Ambiciosos e convencidos. Elemento: Fogo.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>08-23</dataInicio>
+
+        <dataFim>09-22</dataFim>
+
+        <signoNome>Virgem</signoNome>
+
+        <descricao>Virginianos: Organizados e analíticos. Desconfiado e perfeccionista. Elemento: Terra.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>09-23</dataInicio>
+
+        <dataFim>10-22</dataFim>
+
+        <signoNome>Libra</signoNome>
+
+        <descricao>Librianos: Diplomáticos e sinceros. Controlador com mania de organização. Elemento: Ar.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>10-23</dataInicio>
+
+        <dataFim>11-21</dataFim>
+
+        <signoNome>Escorpião</signoNome>
+
+        <descricao>Escorpianos: Auto-confiante, dedicado e apaixonado. Vingativo e rancoroso. Elemento: Terra.</descricao>
+
+    </signo>
+
+</signos>
