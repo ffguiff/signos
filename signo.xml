@@ -2,16 +2,38 @@
 
 <signos>
     <titulo>Signos</titulo>
+    
+    <signo>
 
+        <dataInicio>03-21</dataInicio>
+
+        <dataFim>04-20</dataFim>
+
+        <signoNome>ARIES</signoNome>
+
+        <descricao>Áries é o primeiro signo do zodíaco e o primeiro na trilogia do fogo - simboliza a faísca.</descricao>
+
+    </signo>
     <signo>
 
         <dataInicio>05-21</dataInicio>
 
         <dataFim>06-20</dataFim>
 
-        <signoNome>Gêmeos</signoNome>
+        <signoNome>TOURO</signoNome>
 
-        <descricao>Geminianos: animados e comunicativos. Inconstantes, ansiosos e evasivos. Elemento: Ar.</descricao>
+        <descricao>Touro é o primeiro signo do elemento terra, regido por Vênus, o planeta do amor e dos relacionamentos.</descricao>
+
+    </signo>
+    <signo>
+
+        <dataInicio>05-21</dataInicio>
+
+        <dataFim>06-20</dataFim>
+
+        <signoNome>GÊMEOS</signoNome>
+
+        <descricao>O primeiro signo de ar é Gêmeos, o signo mais curioso, apelidado de borboleta do zodíaco, pela sua curiosidade, leveza e capacidade de voar de um lado a outro.</descricao>
 
     </signo>
     <signo>
@@ -20,9 +42,9 @@
 
         <dataFim>07-21</dataFim>
 
-        <signoNome>Câncer</signoNome>
+        <signoNome>CÂNCER</signoNome>
 
-        <descricao>Cancerianos: dedicados e gentis. Carentes e ciumentos. Elemento: Água.</descricao>
+        <descricao>Câncer é o primeiro signo de água, regido pela Lua e, como seu luminar regente, é totalmente instável e pode viver as quatro fases lunares em um só dia.</descricao>
 
     </signo>
     <signo>
@@ -31,9 +53,9 @@
 
         <dataFim>08-22</dataFim>
 
-        <signoNome>Leão</signoNome>
+        <signoNome>LEÃO</signoNome>
 
-        <descricao>Leoninos: Inteligentes e corajosos. Ambiciosos e convencidos. Elemento: Fogo.</descricao>
+        <descricao>Leão é o segundo signo pertencente à trilogia do fogo e representa a chama.</descricao>
 
     </signo>
     <signo>
@@ -42,9 +64,9 @@
 
         <dataFim>09-22</dataFim>
 
-        <signoNome>Virgem</signoNome>
+        <signoNome>VIRGEM</signoNome>
 
-        <descricao>Virginianos: Organizados e analíticos. Desconfiado e perfeccionista. Elemento: Terra.</descricao>
+        <descricao>Virgem é o segundo signo de terra, regido por Mercúrio, o deus da comunicação e do conhecimento.</descricao>
 
     </signo>
     <signo>
@@ -53,9 +75,9 @@
 
         <dataFim>10-22</dataFim>
 
-        <signoNome>Libra</signoNome>
+        <signoNome>LIBRA</signoNome>
 
-        <descricao>Librianos: Diplomáticos e sinceros. Controlador com mania de organização. Elemento: Ar.</descricao>
+        <descricao>Libra é o segundo signo do elemento ar, regido por Vênus, o planeta do amor e dos relacionamentos. </descricao>
 
     </signo>
     <signo>
@@ -64,9 +86,53 @@
 
         <dataFim>11-21</dataFim>
 
-        <signoNome>Escorpião</signoNome>
+        <signoNome>ESCORPIÃO</signoNome>
 
-        <descricao>Escorpianos: Auto-confiante, dedicado e apaixonado. Vingativo e rancoroso. Elemento: Terra.</descricao>
+        <descricao>Escorpião é o segundo signo de água, também extremamente sensível e profundo, ligado ao mundo emocional.</descricao>
+
+    </signo>
+        <signo>
+
+        <dataInicio>11-21</dataInicio>
+
+        <dataFim>12-20</dataFim>
+
+        <signoNome>SAGITÁRIO</signoNome>
+
+        <descricao>Sagitário é o terceiro signo do elemento fogo e representa as cinzas.</descricao>
+
+    </signo>
+        <signo>
+
+        <dataInicio>12-21</dataInicio>
+
+        <dataFim>01-20</dataFim>
+
+        <signoNome>CAPRICÓRNIO</signoNome>
+
+        <descricao>Escorpião é o segundo signo de água, também extremamente sensível e profundo, ligado ao mundo emocional.</descricao>
+
+    </signo>
+        <signo>
+
+        <dataInicio>01-21</dataInicio>
+
+        <dataFim>02-20</dataFim>
+
+        <signoNome>AQUÁRIO</signoNome>
+
+        <descricao>Aquário é o terceiro signo de ar, regido por Urano, o planeta da liberdade e da rebeldia.</descricao>
+
+    </signo>
+            <signo>
+
+        <dataInicio>02-21</dataInicio>
+
+        <dataFim>03-20</dataFim>
+
+        <signoNome>PEIXES</signoNome>
+
+        <descricao>Peixes é o terceiro signo de água, regido por Netuno, o deus dos oceanos.</descricao>
 
     </signo>
 

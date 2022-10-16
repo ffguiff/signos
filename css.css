@@ -1,0 +1,132 @@
+*
+        {
+        max-height: 100vh;
+        margin: 0;
+        box-sizing:border-box;
+        font-family:'Poppins',sans-serif;
+        }
+body{
+    text-align: center;
+    background-image: url('src/signo2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.tudo{
+    text-align: center;
+    margin:50px;
+}
+label{
+    margin: 10px;
+    font-size: 25px;
+}
+#nameField{
+    margin:25px;
+}
+#birthdayField{
+    margin:25px;
+}
+#buttonField{
+    margin:50px;
+}
+#button:hover{
+    transition-duration: 0.3s;
+    width: 110px;
+    height: 60px;
+    background-color: rgb(187, 187, 187);
+}
+#button{
+    margin:10px;
+    transition-duration: 0.3s;
+    box-shadow: 0px 5px 6px 1px rgb(0 0 0 / 30%);
+    border-radius: 100px;
+    width: 100px;
+    height: 50px;
+    border: none;
+}
+#inputName{
+    box-shadow: 0px 5px 6px 1px rgb(0 0 0 / 30%);
+    border: none;
+    text-align: center;
+    height: 50px;
+    border-radius: 100px; 
+    width: 200px;
+}
+#inputBirthDay{
+    box-shadow: 0px 5px 6px 1px rgb(0 0 0 / 30%);
+    border: none;
+    height: 50px;
+    text-align: center;
+    border-radius: 100px;
+    width: 200px;
+}
+
+@media (min-width: 700px) and (orientation: landscape){
+    *
+            {
+            max-height: 100vh;
+            margin: 0;
+            box-sizing:border-box;
+            font-family:'Poppins',sans-serif;
+            }	
+    body{
+        background-image: url('src/signo.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+    }
+    h1{
+        font-size: 40px;
+        margin-bottom: 50px;
+    }
+    .tudo{
+        text-align: center;
+        margin:50px;
+    }
+    label{
+        margin: 10px;
+        font-size: 25px;
+    }
+    #nameField{
+        margin:25px;
+    }
+    #birthdayField{
+        margin:25px;
+    }
+    #buttonField{
+        margin:50px;
+    }
+    #button:hover{
+        transition-duration: 0.3s;
+        width: 110px;
+        height: 60px;
+        background-color: rgb(187, 187, 187);
+    }
+    #button{
+        transition-duration: 0.3s;
+        box-shadow: 0px 5px 6px 1px rgb(0 0 0 / 30%);
+        border-radius: 100px;
+        width: 100px;
+        height: 50px;
+        border: none;
+    }
+    #inputName{
+        box-shadow: 0px 5px 6px 1px rgb(0 0 0 / 30%);
+        border: none;
+        text-align: center;
+        height: 50px;
+        border-radius: 100px; 
+        width: 200px;
+    }
+    #inputBirthDay{
+        box-shadow: 0px 5px 6px 1px rgb(0 0 0 / 30%);
+        border: none;
+        height: 50px;
+        text-align: center;
+        border-radius: 100px;
+        width: 200px;
+    }
+}

@@ -5,33 +5,34 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css.css" />
+    <link rel = "icon" href = 
+    "https://cdn-icons-png.flaticon.com/512/1534/1534067.png"
+        type = "image/x-icon">
     <title>Signos</title>
 </head>
-
+<header>
 <body>
-
-    <h3>Qual é o seu Signo?</h3>
+<div class = "tudo">
+    <h1>Qual é o seu Signo?</h1>
 
     <form action="signo.php" method="post">
-
+        <label for="inputName">Seu nome</label>
         <div id="nameField">
-
-            <label for="inputName">Seu nome</label>
             <input type="text" id="inputName" name="namePerson" required>
         </div>
-
+        <label for="inputBirthDay">Seu aniversário</label>
         <div id="birthdayField">
-
-            <label for="inputBirthDay">Seu aniversário</label>
             <input type="date" id="inputBirthDay" name="birthday" required>
         </div>
 
         <div id="buttonField">
-
-            <input type="submit" value="Consultar">
+            <input id="button" type="submit" value="Consultar">
         </div>
     </form>
+</div>
 
 </body>
+</header>
 
 </html>
